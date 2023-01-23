@@ -47,7 +47,7 @@ One attachment
  
 ## 🚀 Live Demo <a name="live-demo"></a>
  
-- [Live Demo Link](https://github.com/Tracy-miranja/mobile-version)
+- [https://tracy-miranja.github.io/tracyportfolio.github.io/](https://tracy-miranja.github.io/tracyportfolio.github.io/)
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
