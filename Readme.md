@@ -47,8 +47,7 @@ One attachment
  
 ## 🚀 Live Demo <a name="live-demo"></a>
  
-<a href="https://tracy-miranja.github.io/tracyportfolio.github.io/">live demo</a>
-<!-- - [https://tracy-miranja.github.io/tracyportfolio.github.io/](https://tracy-miranja.github.io/tracyportfolio.github.io/) -->
+<a href="https://tracy-miranja.github.io/tracyportfolio.github.io/">Click to view Live demo</a>
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
